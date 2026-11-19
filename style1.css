@@ -1,0 +1,40 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+#page1{
+    height: 100%;
+    width: 100%;
+    background-color:white;
+
+}
+ #page1 h1{
+    font-size: 70px;
+}
+#page1 #box{
+    height: 300px;
+    width: 300px;
+    background-color: cadetblue;
+    margin-top: 5%;
+    transition: all ease 1s;
+  
+}
+
+#box:hover{
+    scale: 0.6;
+    transition: all 1s ease;
+  border-radius: 50%;
+  background-color: red;
+}
+
+#page2{
+    height: 100%;
+    width: 100%;
+    background-color: white;
+}

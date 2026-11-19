@@ -1,0 +1,36 @@
+dashboard : 
+		Total no. of complains
+
+report crime :
+		Complaint Title replace complaint name
+
+		Crime Type add extra options
+			
+		Incident Description : maximum 100 chratacter and after success redirect into dashboard
+
+
+role : according to admin code is correct only chnge in citizen.
+
+
+Upload Evidence:  give only option (png,jpeg,jpg etc) don't other. (show option  of available size)
+	
+		 Request URL
+		http://localhost:8080/api/evidence/upload
+		Request method
+		POST
+		Status code
+		413 Content Too Large
+		Remote address
+		[::1]:8080
+
+add profile page (option) : edit name , mail , phone number etc. 
+
+
+add setting page . 
+
+
+👮 Police Dashboard : chnge size of logout button  and profile section 
+
+Admin Dashboard me profile section and change the request add karna hai
+
+

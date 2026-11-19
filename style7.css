@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+#main{
+    height:100%;
+    width:100%;
+    background-color:black;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+
+}
+
+h1{
+    color:aliceblue;
+    font-size: 50px;
+    animation: bounce-in 0.7s linear;
+    
+}
+
+@keyframes bounce-in{
+    0%{
+        transform: scale(0.6);
+        opacity: 0;
+    }
+    60%{
+        transform: scale(1.2);
+        opacity: 1;
+
+    }
+    100%{
+        transform: scale(1);
+        opacity: 1;
+
+    }
+}

@@ -1,0 +1,474 @@
+
+Campus Placement Technical MCQ's Part-2
+
+
+ 
+1. In a relational database, which normal form eliminates transitive dependencies? 
+
+First Normal Form (1NF)
+Second Normal Form (2NF)
+Third Normal Form (3NF)
+Boyce-Codd Normal Form (BCNF
+
+Correct answer
+Third Normal Form (3NF)
+ 
+2. What is the Big-O time complexity of deleting the minimum element in a min- heap? 
+
+O(1)
+O(log n)
+O(n)
+O(n log n)
+
+correct answer
+o(log n)
+ 
+Which network topology has a single point of failure? 
+
+*
+0/1
+Star
+Ring
+Mesh
+Bus
+ 
+Correct answer
+Star
+ 
+Which of the following is used to ensure atomicity in database transactions? 
+
+*
+0/1
+Indexing
+Checkpoints
+ 
+Log Files
+Deadlocks
+Correct answer
+Log Files
+ 
+What is the maximum height of an AVL tree with 15 nodes? 
+
+*
+0/1
+A. 4
+B. 5
+C. 6
+D. 7
+ 
+Correct answer
+A. 4
+ 
+Which of the following algorithms is used for cycle detection in an undirected graph? 
+*
+0/1
+Bellman-Ford Algorithm
+Floyd-Warshall Algorithm
+Union-Find Algorithm
+Kruskal's Algorithm
+ 
+Correct answer
+Union-Find Algorithm
+ 
+Which type of storage is used by the blob in cloud computing? 
+
+*
+0/1
+Block storage
+ 
+Object storage
+File storage
+Archive storage
+Correct answer
+Object storage
+ 
+What is the IP address range for Class B networks? 
+
+*
+0/1
+128.0.0.0 to 191.255.255.255
+192.0.0.0 to 223.255.255.255
+ 
+0.0.0.0 to 127.255.255.255
+224.0.0.0 to 239.255.255.255
+Correct answer
+128.0.0.0 to 191.255.255.255
+ 
+In a relational database, which key is used to uniquely identify a record? 
+
+*
+1/1
+Foreign Key
+Primary Key
+ 
+Composite Key
+Candidate Key
+ 
+What is the primary advantage of using a circular queue over a normal queue? 
+
+*
+0/1
+Simpler implementation
+Optimized memory usage
+Faster enqueue operation
+Easier sorting
+ 
+Correct answer
+Optimized memory usage
+ 
+Which algorithm is used in cryptography for secure key exchange? 
+
+*
+0/1
+RSA
+DES
+ 
+Diffie-Hellman
+AES
+Correct answer
+Diffie-Hellman
+ 
+In the OSI model, which layer is responsible for ensuring reliable message delivery? 
+*
+1/1
+Session Layer
+Application Layer
+Transport Layer
+ 
+Data Link Layer
+ 
+What is the maximum number of edges in a complete undirected graph with 7 vertices? 
+
+*
+0/1
+21
+15
+ 
+28
+42
+Correct answer
+21
+ 
+Which of the following is a constraint used to enforce data integrity in SQL? 
+
+*
+0/1
+TRIGGER
+INDEX
+ 
+CHECK
+JOIN
+Correct answer
+CHECK
+ 
+What does an LRU cache replacement policy prioritize for replacement? 
+
+*
+0/1
+The most recently used page
+ 
+The least recently used page
+The largest page
+The smallest page
+Correct answer
+The least recently used page
+ 
+Which cloud deployment model is exclusively used by a single organization?
+
+*
+1/1
+Public Cloud
+Private Cloud
+ 
+Hybrid Cloud
+Community Cloud
+ 
+Which data structure is best for implementing a priority queue? 
+
+*
+0/1
+Stack
+Queue
+ 
+Heap
+Array
+Correct answer
+Heap
+ 
+What is the Big-O time complexity of searching for an element in a balanced binary search tree? 
+
+*
+1/1
+O(log n)
+ 
+O(1)
+O(n)
+O(n^2)
+ 
+Which protocol is used for remote login to a server? 
+
+0/1
+FTP
+SSH
+HTTP
+ 
+SMTP
+Correct answer
+SSH
+ 
+What is the main characteristic of normalization in databases?
+
+*
+1/1
+Reduces data redundancy
+ 
+Increases query speed
+Simplifies database design
+Ensures data encryption
+ 
+What is the best-case time complexity of QuickSort? 
+
+*
+0/1
+O(n log n)
+O(n)
+ 
+O(n^2)
+O(log n)
+Correct answer
+O(n log n)
+ 
+Which of the following is NOT a collision resolution technique in hashing? 
+
+*
+1/1
+Linear Probing
+Double Hashing
+Open Addressing
+Divide and Conquer
+ 
+ 
+In a directed graph, what is the time complexity of detecting a cycle using Depth First Search (DFS)? 
+
+*
+0/1
+O(V + E)
+O(V^2)
+O(E log V)
+ 
+O(V log E)
+Correct answer
+O(V + E)
+ 
+In the TCP/IP model, which protocol is used for email transmission? 
+
+*
+1/1
+IMAP
+POP3
+SMTP
+ 
+SNMP
+ 
+What is the maximum number of nodes in a binary tree with height h? 
+
+*
+0/1
+2^h
+2^{h+1} - 1
+2^h - 1
+2^{h-1}
+ 
+Correct answer
+2^{h+1} - 1
+ 
+Which SQL command is used to remove a specific row from a table? 
+
+*
+1/1
+DELETE
+ 
+TRUNCATE
+DROP
+REMOVE
+ 
+In cloud computing, what does "scalability" refer to? 
+
+*
+0/1
+Security of data
+On-demand resource allocation
+Ability to scale physical storage
+ 
+Automatic error correction
+Correct answer
+On-demand resource allocation
+ 
+Which type of graph traversal uses a queue as its primary data structure? 
+
+*
+0/1
+Depth-First Search
+Breadth-First Search
+Topological Sort
+Dijkstra’s Algorithm
+ 
+Correct answer
+Breadth-First Search
+ 
+What is the role of a foreign key in a relational database? 
+
+*
+1/1
+To uniquely identify rows in a table
+To establish a relationship between two tables
+ 
+To enforce uniqueness within a table
+To improve query performance
+ 
+Which algorithm is used to find the shortest path in a graph with negative edge weights? 
+*
+1/1
+Dijkstra’s Algorithm
+Prim’s Algorithm
+Kruskal’s Algorithm
+Bellman-Ford Algorithm
+ 
+ 
+What is the space complexity of Merge Sort? 
+
+*
+0/1
+O(1)
+O(n)
+O(n log n)
+ 
+O(n^2)
+Correct answer
+O(n)
+ 
+In networking, which protocol operates at the transport layer and provides reliable data transfer? 
+
+*
+0/1
+UDP
+ 
+TCP
+ICMP
+HTTP
+Correct answer
+TCP
+ 
+What is the minimum number of disks required for RAID 5 configuration? 
+
+*
+0/1
+A. 2
+B. 3
+C. 4
+D. 5
+ 
+Correct answer
+B. 3
+ 
+Which data structure is used for implementing recursion? 
+
+*
+0/1
+Queue
+Stack
+Linked List
+ 
+Array
+Correct answer
+Stack
+ 
+In IPv6, how many bits are used for an address? 
+
+*
+0/1
+32
+64
+128
+256
+ 
+Correct answer
+128
+ 
+What is the primary purpose of a cache in a computer system? 
+
+*
+1/1
+To increase storage capacity
+To reduce the time required to access frequently used data
+ 
+To replace RAM
+To store permanent data
+ 
+What is the postfix notation of the expression (A+B)×(C−D)(A + B) \times (C - D)? 
+
+*
+0/1
+AB+CD−×
+ABCD+−×
+ 
+AB+CD×−
+A+B×C−D
+Correct answer
+AB+CD−×
+ 
+In a relational database, what is the Cartesian Product of two tables? 
+*
+1/1
+The sum of rows from both tables
+A table with all possible combinations of rows from both tables
+ 
+A table with only matching rows from both tables
+A table with unique rows from both tables
+ 
+Which type of cloud model provides shared infrastructure for multiple organizations? 
+*
+1/1
+Public Cloud
+Private Cloud
+Hybrid Cloud
+Community Cloud
+ 
+ 
+What is the primary difference between a queue and a stack? 
+
+*
+0/1
+Queue uses LIFO; Stack uses FIFO
+Queue uses FIFO; Stack uses LIFO
+Queue is dynamic; Stack is static
+Queue stores pointers; Stack stores values
+ 
+Correct answer
+Queue uses FIFO; Stack uses LIFO
+ 
+Which of the following data structures is used in Breadth-First Search? 
+
+*
+0/1
+Stack
+Queue
+Priority Queue
+ 
+Linked List
+Correct answer
+Queue
+ 
+What is the best-case time complexity of Insertion Sort? 
+
+*
+1/1
+O(n^2)
+O(n log n)
+O(n)
+ 
+O(1)
+This form was created inside of Technocrats Group of Institutions. - Contact form owner
+Does this form look suspicious? Report
+
+Google Forms

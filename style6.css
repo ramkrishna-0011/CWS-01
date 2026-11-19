@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+
+}
+
+/* #main {
+    height: 100%;
+    width: 100%;
+    background-image: url("https://plus.unsplash.com/premium_photo-1792819174335-e5c56cc3dbda?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D");
+    background-size : cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+} */
+
+
+#main{
+    height: 100%;
+    width:100%;
+    background-color:black;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    
+}
+
+#main #box{
+    height:200px;
+    width:200px;
+    background-color:white;
+    animation: animation 2s linear 1s infinite forwards;
+    
+}
+
+@keyframes animation{
+    from{
+       rotate:0deg;
+       
+    }
+    to{
+        rotate:360deg;
+        background-color:blue;
+    }
+}

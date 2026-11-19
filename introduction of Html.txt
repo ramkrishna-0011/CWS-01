@@ -1,0 +1,35 @@
+<html>
+
+<head> 
+<title>My portfolio</title>
+</head>
+
+<body>
+<b>Name:</b><I>Ramkrishna Chaurasiya.</I> <br><br>
+I am Mca student. I am form a Bhopal.<br><br>
+<b>My email id-</b> ramkrishnachaurasiya362@gmail.com.<br><br>
+<b>My contact number-</b> <U>9770865892.</U><hr><br>
+
+<b><U>Education:</U></b>
+
+</body>
+
+<html>
+
+
+
+
+<html>	-> strat of Html.
+<head> <title>  </title> </head>   -> Page title
+<body> 	-> page content
+<b> 	-> bold
+<u> 	-> underline
+<i> 	-> Italic
+<br> 	-> break line
+<hr> 	-> horizontal line
+<p> 	-> Paragraph
+<h1>	-> Heading 
+...	.....
+<h6>	-> Heading
+<sub> 	->for bottom H2o
+<sup> 	->for top 2^2

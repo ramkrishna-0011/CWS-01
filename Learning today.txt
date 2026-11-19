@@ -1,0 +1,44 @@
+1. Kotlin
+2. Android Studio
+3. Jetpack Compose
+4. Retrofit API
+5. Login/Register
+6. Dashboard
+7. Report Crime
+8. Track Complaint
+9. Evidence Upload
+10. Notifications
+11. Play Store
+
+
+
+
+************************************************************
+
+Phase 1
+Kotlin
+Android Studio
+Jetpack Compose
+
+Phase 2
+Retrofit
+API Integration
+Login/Register
+
+Phase 3
+MVVM
+Coroutines
+Room Database
+
+Phase 4
+Firebase Notifications
+Play Store Deployment
+
+Phase 5
+Advanced Architecture
+Cloud
+CI/CD
+
+
+
+*****************************************

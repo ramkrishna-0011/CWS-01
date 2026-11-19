@@ -1,0 +1,13 @@
+								Data Mining
+
+
+
+
+
+1. Data cleaning.
+2. Data Integration.
+3. Data Selection.
+4. Data Transformation.
+5. Data Mining.
+6. Pattern Evaluation.
+
